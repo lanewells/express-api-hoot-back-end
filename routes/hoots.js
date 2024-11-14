@@ -26,6 +26,4 @@ router.put('/:hootId', hootsController.updateHoot);
 router.delete('/:hootId', hootsController.deleteHoot);
 
 
-
-
 module.exports = router;
