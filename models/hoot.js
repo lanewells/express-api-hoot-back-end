@@ -1,3 +1,4 @@
+const mongoose = require("mongoose")
 const commentSchema = require("./comment")
 
 const hootSchema = new mongoose.Schema(
